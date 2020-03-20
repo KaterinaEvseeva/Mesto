@@ -18,7 +18,7 @@
   const api = new Api({
     baseUrl: 'https://praktikum.tk/cohort9',
     headers: {
-      authorization: '1c40e787-d2f1-4812-aa9b-77e6ef33e269',
+      authorization: '1{{{{{a9b-77e6ef33e269',
       'Content-Type': 'application/json'
     }
   });
